@@ -2,9 +2,13 @@
 
 Random ideas that have been circulating in my head for a while.
 
-## Miscellaneous
+## Music
 
-### [`User` Command](misc/user-command)
+### [Smart Shuffle](music/smart-shuffle)
+
+## Software
+
+### [`User` Command](software/user-command)
 
 ## Web
 
